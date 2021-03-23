@@ -1,0 +1,71 @@
+[
+ 
+ 	{
+	  	"name": "Tv_1",
+	  	"description": "Cool tv show",
+	  	
+	  	"schedule" : [
+	  		
+	  		[
+	  		
+	  			{
+	  				"startHour" : 11,
+					"stopHour" : 13,
+					"type" : "comedy",
+					"name" : "Movie1",
+					"shortDescription" : "description missing"
+	  			
+	  			},
+	  			
+	  			
+	  			{
+	  			  	"startHour" : 14,
+					"stopHour" : 16,
+					"type" : "drama",
+					"name" : "Movie2",
+					"shortDescription" : "description here"
+	  			
+	  			}
+	  		
+	  		],
+	  		
+	  		
+	  		
+	  		[
+	  			{
+	  				"startHour" : 12,
+					"stopHour" : 16,
+					"type" : "action",
+					"name" : "Movie3",
+					"shortDescription" : "description missing"
+	  			
+	  			},
+	  			
+	  			
+	  			{
+	  			  	"startHour" : 17,
+					"stopHour" : 20,
+					"type" : "SF",
+					"name" : "Movie4",
+					"shortDescription" : "description here"
+	  			
+	  			}
+	  		
+	  		
+	  		]
+	  	
+	  	
+	  	]
+  	
+  	},
+  	
+  	{
+	  	"name": "Tv_2",
+	  	"description": "Cool tv show 2",
+	  	
+	  	"schedule" : null
+  	
+  	}
+  
+  
+]
